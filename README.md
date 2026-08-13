@@ -65,6 +65,14 @@ Me chamo Pedro Henrique, tenho 18 anos e sou natural de Fernandópolis. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
+<img 
+    align="left" 
+    alt="POSTGRESQL"
+    title="POSTGRESQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
 
 
 
