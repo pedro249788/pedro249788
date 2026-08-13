@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Pedro Henrique
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Pedro Henrique, tenho 18 anos e sou natural de Fernandópolis. Atualmente estou cursando o ensino médio em escola publica junto com o curso técnico em Informática para Internet e também o curso Técnico em Desenvolvimento de sistemas na Etec Professor Armando José Farinazzo em Fernandópolis, SP.
 </p>
