@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro Henrique, tenho 17 anos e sou natural de Fernandópolis. Atualmente estou cursando o ensino médio em escola publica junto com o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP.
+Me chamo Pedro Henrique, tenho 18 anos e sou natural de Fernandópolis. Atualmente estou cursando o ensino médio em escola publica junto com o curso técnico em Informática para Internet e também o curso Técnico em Desenvolvimento de sistemas na Etec Professor Armando José Farinazzo em Fernandópolis, SP.
     <a href="https://www.instagram.com/pedro_henrique.https/">
         <img 
             alt="insta" 
@@ -64,14 +64,6 @@ Me chamo Pedro Henrique, tenho 17 anos e sou natural de Fernandópolis. Atualmen
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SpringBoot"
-    title="SpringBoot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
